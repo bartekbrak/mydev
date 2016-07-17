@@ -1,0 +1,2 @@
+deb http://dl.google.com/linux/chrome/deb/ stable main
+deb http://download.virtualbox.org/virtualbox/debian xenial contrib
