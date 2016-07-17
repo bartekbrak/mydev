@@ -7,6 +7,10 @@ ready for programmming.
 * Configure etc
 * Testable
 
+# Assumptions, what you must know/set in order for this to work
+
+* the username is bartek, by the time script runs that user is created 
+
 # Questions and answers
 
 > Why not ansible?
