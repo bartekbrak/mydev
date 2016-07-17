@@ -9,4 +9,6 @@ then
     sudo dpkg -i vagrant_1.8.4_x86_64.deb
 fi
 sudo apt-get install -y virtualbox
+
+# tested on vagrant 1.8.4 and FAILS
 vagrant up
