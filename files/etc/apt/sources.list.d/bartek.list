@@ -1,3 +1,0 @@
-deb http://dl.google.com/linux/chrome/deb/ stable main
-deb http://download.virtualbox.org/virtualbox/debian xenial contrib
-deb http://ppa.launchpad.net/saiarcot895/myppa/ubuntu xenial main
