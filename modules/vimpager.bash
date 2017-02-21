@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 if ! command -v vimpager
 then
+    (
     git clone git://github.com/rkitover/vimpager /opt/vimpager
     cd /opt/vimpager
     DEBIAN_FRONTEND=noninteractive make install-deb
+    )
 fi
 
 #TODO:
