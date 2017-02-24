@@ -5,9 +5,9 @@ then
 	then
     (
         cd /tmp
-    	wget https://apps.ankiweb.net/downloads/current/anki-2.0.39-amd64.tar.bz2 --no-clobber
-        tar xjf anki-2.0.39-amd64.tar.bz2
-        cd anki-2.0.39
+        wget https://apps.ankiweb.net/downloads/current/anki-2.0.42-amd64.tar.bz2 --no-clobber
+        tar xjf anki-2.0.42-amd64.tar.bz2
+        cd anki-2.0.42
         make install
     )
 	else
